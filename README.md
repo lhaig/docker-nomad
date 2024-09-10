@@ -10,7 +10,10 @@ docker nomad -version
 
 ## Installation
 
-Download the binary that is relevant to your operating system and add it to your cli-plugins directory
+### Install nomad
+add nomad to your systema PATH so the plugin can find it.
+
+Download the plugin binary that is relevant to your operating system and add it to your cli-plugins directory
 
 ### OSX
 ~/.docker/cli-plugins
